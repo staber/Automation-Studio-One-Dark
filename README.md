@@ -6,6 +6,8 @@
 # Setup
 Replace the `Editor.set` file located in `C:\Users\[user]\AppData\Roaming\BR\AS49` and relaunch Automation Studio.
 
+A backup of the original `Editor.set` file is saved [here](/backup/Editor.set) if needed.
+
 # Thanks
 - [@atom](https://github.com/atom) for the theme.
 - [@boaz001](https://github.com/boaz001) for the [template](https://github.com/boaz001/automation-studio-editor-dark).

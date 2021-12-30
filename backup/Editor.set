@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<EditorSettings TabWidth="4" SyntaxColoring="true" Intellisense="true" AutoDeclare="false" ShowWhiteSpace="false" ReplaceTabs="false" IndentMode="Smart" VirtualWhiteSpace="false" ShowLineNumbers="true" AutoFormat="true" PromptBeforeDrag="false" FilteredDescription="false" WordWrapping="false" Outlining="true" ShowLineModifications="true" ShowHypertext="true" xmlns="http://br-automation.co.at/AS/EditorSettings">
+  <Categories>
+    <Category Name="Editor">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="DataType">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Number">
+        </Item>
+        <Item Name="InvalidKeyword">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="Keyword">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Name">
+        </Item>
+        <Item Name="Remark">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="String">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="Operator">
+        </Item>
+        <Item Name="Linenumber">
+        </Item>
+        <Item Name="PrintPageBoundaries">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="FormFeed">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="TextEditor">
+      <Font Name="Courier New" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="DataType">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Number">
+        </Item>
+        <Item Name="InvalidKeyword">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="Keyword">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Name">
+        </Item>
+        <Item Name="Remark">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="String">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="Operator">
+        </Item>
+        <Item Name="Linenumber">
+        </Item>
+        <Item Name="PrintPageBoundaries">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="LineModificatorChange">
+          <ForeColor Red="255" Green="255" Blue="0" />
+        </Item>
+        <Item Name="LineModificatorSave">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="BracesHighlight">
+          <ForeColor Red="255" Green="255" Blue="0" />
+        </Item>
+        <Item Name="HypertextUrlHighlight">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="CodeSnippets">
+          <ForeColor Red="180" Green="228" Blue="180" />
+        </Item>
+        <Item Name="ColumnIndentation">
+          <ForeColor Red="211" Green="211" Blue="211" />
+        </Item>
+        <Item Name="IncludeFiles">
+          <ForeColor Red="128" Green="0" Blue="0" />
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Graphical Editor">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="DataType">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Number">
+        </Item>
+        <Item Name="InvalidKeyword">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="Keyword">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Name">
+        </Item>
+        <Item Name="Remark">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="String">
+          <ForeColor Red="255" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="Operator">
+        </Item>
+        <Item Name="Linenumber">
+        </Item>
+        <Item Name="PrintPageBoundaries">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="CompareEditor">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="Equal">
+          <ForeColor Red="0" Green="0" Blue="0" />
+        </Item>
+        <Item Name="Similar">
+          <ForeColor Red="205" Green="92" Blue="92" />
+        </Item>
+        <Item Name="InLeftPaneOnly">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="InRightPaneOnly">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="Different">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="DifferentContent">
+          <ForeColor Red="0" Green="139" Blue="139" />
+        </Item>
+        <Item Name="DifferentDetails">
+          <ForeColor Red="218" Green="112" Blue="214" />
+        </Item>
+        <Item Name="DifferentBlockItem">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="IncomparableBlockItem">
+          <ForeColor Red="255" Green="165" Blue="0" />
+        </Item>
+        <Item Name="NoHwInfo">
+          <ForeColor Red="95" Green="158" Blue="160" />
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="ProjectExplorer">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Output">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="Errors">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="Warnings">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="Text">
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Diagnosis">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="LadderPowerFlow">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Value">
+          <ForeColor Red="0" Green="0" Blue="0" />
+        </Item>
+        <Item Name="ForceValue">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="ArchiveValue">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="RootNodeColor">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="InactiveValue">
+          <ForeColor Red="169" Green="169" Blue="169" />
+        </Item>
+        <Item Name="SFCTransition">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="Similar">
+          <ForeColor Red="205" Green="92" Blue="92" />
+        </Item>
+        <Item Name="InLeftPaneOnly">
+          <ForeColor Red="0" Green="0" Blue="255" />
+        </Item>
+        <Item Name="InRightPaneOnly">
+          <ForeColor Red="0" Green="128" Blue="0" />
+        </Item>
+        <Item Name="Different">
+          <ForeColor Red="255" Green="0" Blue="0" />
+        </Item>
+        <Item Name="DifferentContent">
+          <ForeColor Red="0" Green="139" Blue="139" />
+        </Item>
+        <Item Name="DifferentDetails">
+          <ForeColor Red="218" Green="112" Blue="214" />
+        </Item>
+        <Item Name="NoHwInfo">
+          <ForeColor Red="95" Green="158" Blue="160" />
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="PropertyWindow">
+      <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
+      <Items>
+        <Item Name="Text">
+        </Item>
+        <Item Name="TextSelection">
+        </Item>
+        <Item Name="GroupBackgroundColor">
+        </Item>
+      </Items>
+    </Category>
+  </Categories>
+  <DefaultEditors>
+    <DefaultEditor Extension="c" Format="Text" />
+    <DefaultEditor Extension="i" Format="Text" />
+    <DefaultEditor Extension="h" Format="Text" />
+    <DefaultEditor Extension="a" Format="Text" />
+    <DefaultEditor Extension="s" Format="Text" />
+    <DefaultEditor Extension="cpp" Format="Text" />
+    <DefaultEditor Extension="c++" Format="Text" />
+    <DefaultEditor Extension="cc" Format="Text" />
+    <DefaultEditor Extension="cp" Format="Text" />
+    <DefaultEditor Extension="cxx" Format="Text" />
+    <DefaultEditor Extension="ii" Format="Text" />
+    <DefaultEditor Extension="hpp" Format="Text" />
+    <DefaultEditor Extension="hh" Format="Text" />
+    <DefaultEditor Extension="dat" Format="Text" />
+    <DefaultEditor Extension="txt" Format="Text" />
+    <DefaultEditor Extension="xml" Format="Text" />
+    <DefaultEditor Extension="vis" Format="Text" />
+    <DefaultEditor Extension="binding" Format="Text" />
+    <DefaultEditor Extension="expression" Format="Text" />
+    <DefaultEditor Extension="expressiontype" Format="Text" />
+    <DefaultEditor Extension="svar" Format="Text" />
+    <DefaultEditor Extension="page" Format="Grafic" />
+    <DefaultEditor Extension="content" Format="Grafic" />
+    <DefaultEditor Extension="layout" Format="Text" />
+    <DefaultEditor Extension="nav" Format="Text" />
+    <DefaultEditor Extension="bindinglist" Format="Text" />
+    <DefaultEditor Extension="snippet" Format="Text" />
+    <DefaultEditor Extension="eventbinding" Format="Grafic" />
+    <DefaultEditor Extension="dialog" Format="Grafic" />
+    <DefaultEditor Extension="theme" Format="Text" />
+    <DefaultEditor Extension="stylesset" Format="Text" />
+    <DefaultEditor Extension="styles" Format="Text" />
+    <DefaultEditor Extension="derivedwidget" Format="Text" />
+    <DefaultEditor Extension="widgetlibrary" Format="Text" />
+    <DefaultEditor Extension="compoundwidget" Format="Text" />
+    <DefaultEditor Extension="numpad" Format="Text" />
+    <DefaultEditor Extension="alphapad" Format="Text" />
+    <DefaultEditor Extension="fun" Format="Table" />
+    <DefaultEditor Extension="var" Format="Table" />
+    <DefaultEditor Extension="typ" Format="Table" />
+    <DefaultEditor Extension="iom" Format="Table" />
+    <DefaultEditor Extension="per" Format="Table" />
+    <DefaultEditor Extension="vvm" Format="Table" />
+    <DefaultEditor Extension="cnc" Format="Text" />
+    <DefaultEditor Extension="ab" Format="Text" />
+    <DefaultEditor Extension="st" Format="Text" />
+    <DefaultEditor Extension="il" Format="Text" />
+    <DefaultEditor Extension="ld" Format="Grafic" />
+    <DefaultEditor Extension="rpt" Format="Table" />
+    <DefaultEditor Extension="tt" Format="Table" />
+    <DefaultEditor Extension="zpt" Format="Table" />
+    <DefaultEditor Extension="ax" Format="Table" />
+    <DefaultEditor Extension="vax" Format="Table" />
+    <DefaultEditor Extension="cns" Format="Table" />
+    <DefaultEditor Extension="ncc" Format="Table" />
+    <DefaultEditor Extension="ett" Format="Table" />
+    <DefaultEditor Extension="hwl" Format="Grafic" />
+    <DefaultEditor Extension="sw" Format="Table" />
+    <DefaultEditor Extension="hw" Format="Table" />
+    <DefaultEditor Extension="ncm" Format="Table" />
+    <DefaultEditor Extension="apt" Format="Table" />
+    <DefaultEditor Extension="opcm" Format="Table" />
+    <DefaultEditor Extension="opcc" Format="Table" />
+    <DefaultEditor Extension="opct" Format="Table" />
+    <DefaultEditor Extension="opcp" Format="Table" />
+    <DefaultEditor Extension="opca" Format="Table" />
+    <DefaultEditor Extension="mappviewcfg" Format="Table" />
+    <DefaultEditor Extension="uaserver" Format="Table" />
+    <DefaultEditor Extension="fontscfg" Format="Table" />
+    <DefaultEditor Extension="textconfig" Format="Table" />
+    <DefaultEditor Extension="language" Format="Table" />
+    <DefaultEditor Extension="uad" Format="Table" />
+    <DefaultEditor Extension="uanodeset" Format="Text" />
+    <DefaultEditor Extension="uam" Format="Table" />
+  </DefaultEditors>
+</EditorSettings>
